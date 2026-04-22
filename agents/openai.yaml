@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Reading Layers"
+  short_description: "Turn English readings into study layers"
+  default_prompt: "Use $english-reading-layers to turn this English reading into a readable bilingual guide, presentation outline, glossary, and vocabulary bank."
